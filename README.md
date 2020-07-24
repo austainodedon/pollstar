@@ -16,5 +16,5 @@ python manage.py runserver
 
 ### Commands Gist
 You can find all of the commands from the project here:
-https://gist.github.com/bradtraversy/06538da5924882b2cf30fa6310d505b1
+https://gist.github.com/austainodedon/3de097c58c6198126d8fbc9d9b793878
 
